@@ -1,0 +1,10 @@
+{
+  "name": "Majula",
+  "description": "Dark souls 2 Majula Track, with bonfire sounds and waves. Source: https://www.youtube.com/watch?v=5i_enopHsqg",
+  "author": "Lolight2",
+  "version": "v1.0",
+  "manifest_version": 2,
+  "music": true,
+  "ignore": [],
+  "mappings": {}
+}
